@@ -6,4 +6,4 @@
 Goal:
 + Build a feeder that will only allow a designated cat access to the food.
 
-1. https://www.surepetcare.com
+1. www dot surepetcare dot com
